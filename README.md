@@ -14,9 +14,10 @@
 </p>
 
 <p align="center">
-  📄 <a href="#">Resume</a> &nbsp;·&nbsp; 📍 Gurugram, India
+  📄 <a href="https://drive.google.com/file/d/1iBaQnyYVgagf5LiHqQCgz7CNe69fTa1m/view?usp=sharing">Resume</a>
+  &nbsp;•&nbsp;
+  📍 Gurugram, India
 </p>
-
 ---
 
 ### 💜 About Me
