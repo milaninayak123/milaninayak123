@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Milani 👋</h1>
-<h3 align="center">Data Analyst | SQL · Power BI · Microsoft Fabric · Python</h3>
+<h3 align="center">Data Analyst | Product Support Analyst @ Zenarate</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/milaninayak">
@@ -18,13 +18,13 @@
   &nbsp;•&nbsp;
   📍 Gurugram, India
 </p>
----
+
 
 ### 💜 About Me
 
-I work as a **Product Support Engineer at Zenarate**, where I spend my days deep in SQL, conversational datasets, and Power BI dashboards for enterprise clients across banking, healthcare, insurance, and telecom.
+I work as a **Product Support Analyst at Zenarate**, where I spend my days deep in SQL, conversational datasets, and Power BI dashboards for enterprise clients across banking, healthcare, insurance, and telecom.
 
-I'm a B.Tech graduate in Computer Science from **KIIT University**. Outside of work, I'm usually solving problems on LeetCode or Codeforces, working on side projects.
+I'm a B.Tech graduate in Computer Science from **KIIT University**. Outside of work, I'm usually solving problems on LeetCode, hitting the gym, or working on side projects.
 
 ---
 
@@ -57,8 +57,8 @@ You'll find my projects in the pinned repositories below. For a more detailed ov
 
 ### 🎓 Certifications & Publication
 
-* CCNA v7 & Cybersecurity Essentials — Cisco Networking Academy
-* *A Systematic Study on Emerging CWSN and Associated Security Issues* — IEEE ESIC 2024 (Scopus-indexed)
+* Cisco Certified Network Associate (CCNA v7) – Cisco Networking Academy
+* *A Systematic Study on Emerging CWSN and Associated Security Issues* — IEEE Xplore (Scopus-indexed)
 
 ---
 
